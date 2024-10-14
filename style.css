@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'More Perfect DOS VGA';
+    background-color: #292938;
+}
+
+.wel{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 110px;
+    transition: 5ms;
+    animation: opacidade 4s;
+    color: #F9E2AF;
+}
+
+.about-me{
+    text-align: center;
+    padding-top: 80px;
+    animation: opacidade 7s;
+    color: #F9E2AF;
+}
+
+
+.link{
+    text-align: center;
+    padding-top: 90px;
+    animation: opacidade 9s;
+}
+
+
+.arch{
+    text-align: center;
+    opacity: 20%;
+    padding-top: 290px;
+    color: white;
+}
+
+
+
+@keyframes opacidade {
+    0%{
+        opacity: 0%;
+    }
+
+    100%{
+        opacity: 100%;
+    }
+}
