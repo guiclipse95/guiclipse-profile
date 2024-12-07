@@ -29,15 +29,6 @@
 }
 
 
-.arch{
-    text-align: center;
-    opacity: 20%;
-    padding-top: 290px;
-    color: white;
-}
-
-
-
 @keyframes opacidade {
     0%{
         opacity: 0%;
